@@ -1,3 +1,7 @@
+A quick tool to map sql data to no-SQl Cassandra and handle live data migration of data from sql to no-sql.
+it took approx 5 mins to transform and move 5 million records.
+
+
 
 # Your directory layout should look like this
 $ find .
